@@ -87,8 +87,9 @@ class _MessagesScreenState extends State<MessagesScreen> {
         conversations.add(newConversation);
       }
     }
-
-    return conversations;
+    
+    List<Conversation> reversedConversations = new List.from(conversations.reversed);
+    return reversedConversations;
   }
 
   List<ConversationDisplay> createListOfConversationDisplays(List<Conversation> conversations){
