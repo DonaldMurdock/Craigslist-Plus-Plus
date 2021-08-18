@@ -20,5 +20,5 @@ To run this program type the following at the command prompt:\
 `flutter run`
 
 ## Screenshots
-<img src="save_craigslist_ui/screenshots/flutter_01.png?raw=true" width="260">&nbsp;&nbsp;&nbsp;&nbsp;<img src="save_craigslist_ui/screenshots/flutter_05.png?raw=true" width="260">&nbsp;&nbsp;&nbsp;&nbsp;<img src="save_craigslist_ui/screenshots/flutter_02.png?raw=true" width="260">
-<img src="save_craigslist_ui/screenshots/flutter_03.png?raw=true" width="260">&nbsp;&nbsp;&nbsp;&nbsp;<img src="save_craigslist_ui/screenshots/flutter_06.png?raw=true" width="260">&nbsp;&nbsp;&nbsp;&nbsp;<img src="save_craigslist_ui/screenshots/flutter_04.png?raw=true" width="260">
+<img src="save_craigslist_ui/screenshots/flutter_01_captioned.png?raw=true" width="260">&nbsp;&nbsp;&nbsp;&nbsp;<img src="save_craigslist_ui/screenshots/flutter_05_captioned.png?raw=true" width="260">&nbsp;&nbsp;&nbsp;&nbsp;<img src="save_craigslist_ui/screenshots/flutter_02_captioned.png?raw=true" width="260">
+<img src="save_craigslist_ui/screenshots/flutter_03_captioned.png?raw=true" width="260">&nbsp;&nbsp;&nbsp;&nbsp;<img src="save_craigslist_ui/screenshots/flutter_06_captioned.png?raw=true" width="260">&nbsp;&nbsp;&nbsp;&nbsp;<img src="save_craigslist_ui/screenshots/flutter_04_captioned.png?raw=true" width="260">
